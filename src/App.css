@@ -2,9 +2,12 @@
   text-align: center;
   min-height: 100vh;
   background-color: #292F36;
-  padding: 32px;
   display: grid;
   gap:2vh
+
+}
+.App>*{
+  padding: 36px;
 
 }
 
@@ -69,7 +72,7 @@ input:focus-visible {
   grid-template-columns: auto 1fr auto;
   text-align: start;
   gap: 5vw;
-
+  
 }
 .button{
   color:black;
@@ -88,8 +91,6 @@ input:focus-visible {
   gap: 2vh;
   text-overflow: clip;
   color:white;
-
-
 }
 .title{
   font-size: 16px;

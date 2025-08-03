@@ -7,7 +7,7 @@ export default function NavBar(){
 
 
     return (
-        <div className="navBar">
+        <div className="text-sm">
             <p className="selected">Home</p>
             <p>Blogs</p>
             <TextField/>
