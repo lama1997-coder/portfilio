@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfilio/static/css/main.ad0f024d.css",
-    "main.js": "/portfilio/static/js/main.4abd364d.js",
+    "main.css": "/portfilio/static/css/main.e337e679.css",
+    "main.js": "/portfilio/static/js/main.13220a13.js",
     "static/js/453.ff147fc1.chunk.js": "/portfilio/static/js/453.ff147fc1.chunk.js",
     "static/media/image1.png": "/portfilio/static/media/image1.628b6caf2c6243ac35e8.png",
     "static/media/aboutMe.png": "/portfilio/static/media/aboutMe.4dea4fe091f2666fffda.png",
@@ -20,12 +20,12 @@
     "static/media/linkedin.svg": "/portfilio/static/media/linkedin.a3a3d6c334bf7bd923f9cc3a73e64e10.svg",
     "static/media/html_icon.svg": "/portfilio/static/media/html_icon.a7cf7d670010c425740d.svg",
     "static/media/css_icon.svg": "/portfilio/static/media/css_icon.e828a62ca0ac2467e5db.svg",
-    "main.ad0f024d.css.map": "/portfilio/static/css/main.ad0f024d.css.map",
-    "main.4abd364d.js.map": "/portfilio/static/js/main.4abd364d.js.map",
+    "main.e337e679.css.map": "/portfilio/static/css/main.e337e679.css.map",
+    "main.13220a13.js.map": "/portfilio/static/js/main.13220a13.js.map",
     "453.ff147fc1.chunk.js.map": "/portfilio/static/js/453.ff147fc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad0f024d.css",
-    "static/js/main.4abd364d.js"
+    "static/css/main.e337e679.css",
+    "static/js/main.13220a13.js"
   ]
 }
