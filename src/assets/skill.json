@@ -1,0 +1,35 @@
+   
+   {
+    "skill":[
+        {
+            "icon":"screen_icon.svg",
+            "title":"web developement",
+            "subtitle":"HTML·CSS·JS·REACT"
+        },
+        {
+            "icon":"mobile_icon.svg",
+            "title":"Mobile Application developement",
+            "subtitle":"Flutter"
+        }
+    ],
+    "icons":[
+
+        {
+            "icon":"/src/assets/html_icon.svg",
+            "title":"HTML"
+        },
+
+        {
+            "icon":"/src/assets/css_icon.svg",
+            "title":"CSS"
+        },
+        {
+            "icon":"/src/assets/js_icon.svg",
+            "title":"JS"
+        },
+        {
+            "icon":"/src/assets/react_icon.svg  ",
+            "title":"REACT"
+        }
+    ]
+}
