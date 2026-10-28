@@ -1,11 +1,18 @@
 {
   "projects": [
     {
+      "id": "moneymov",
       "name": "MoneyMov",
       "link": "https://play.google.com/store/apps/details?id=com.motazsiam.money_mov"
     },
     {
+      "id": "humam",
       "name": "Humam",
+      "link": "https://play.google.com/store/apps/details?id=com.rakiza.humam"
+    },
+    {
+      "id": "humam-technicians",
+      "name": "Humam — Technicians",
       "link": "https://play.google.com/store/apps/details?id=com.worker.humam"
     }
   ]

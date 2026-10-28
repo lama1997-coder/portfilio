@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import AppBar from './components/AppBar';
 import Header from './components/Header';
@@ -7,35 +6,22 @@ import Skills from './components/Skills';
 import Projects from './components/Project';
 import ContactUs from './components/ContactUs';
 import CVSection from './components/CVSection';
+import Footer from './components/Footer';
 
-
-
-
-
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <AppBar/>
-      <div id="home">
-        <Header/>
-      </div>
-      <div id="about">
-        <About/>
-      </div>
-      {/* <Skills/> */}
-      <div id="projects">
-        <Projects/>
-      </div>
-      <div id="cv">
+      <a className="skip-link" href="#main">Skip to content</a>
+      <AppBar />
+      <main id="main" tabIndex={-1}>
+        <Header />
+        <Skills />
+        <Projects />
+        <About />
         <CVSection />
-      </div>
-      <div id="contact">
         <ContactUs />
-      </div>
-     
-     
+      </main>
+      <Footer />
     </div>
   );
 }
-
-export default App;

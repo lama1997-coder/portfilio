@@ -1,0 +1,20 @@
+{
+  "MoneyMov": {
+    "listing": "https://play.google.com/store/apps/details?id=com.motazsiam.money_mov",
+    "moneymov-overview.png": "https://play-lh.googleusercontent.com/CZ2Hvgt9Zl2tUFkfhhzN3PPjrvcUmPoKL5co-qb2reVLC2IXbQvqh0j5FiyINtzzRA=w600",
+    "moneymov-screen.png": "https://play-lh.googleusercontent.com/MzcZYiQSAw_13qrdqa1oHQm8W_spfzDzrK3xOS3IMXnNViQmLTNv1az_96_61sLIb--e=w600",
+    "accessed": "2026-10-28"
+  },
+  "Humam": {
+    "listing": "https://play.google.com/store/apps/details?id=com.rakiza.humam",
+    "audience": "Customers booking home maintenance services",
+    "artwork": "Decorative portfolio monogram; not an app screenshot.",
+    "accessed": "2026-10-28"
+  },
+  "Humam — Technicians": {
+    "listing": "https://play.google.com/store/apps/details?id=com.worker.humam",
+    "audience": "Technicians and service providers",
+    "artwork": "Decorative portfolio monogram; not an app screenshot.",
+    "accessed": "2026-10-28"
+  }
+}
